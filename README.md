@@ -1,5 +1,5 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-- **Name:** VR.Mohamed Rafi 
+- **Name:** R.Mohamed Rafi 
 - **Register Number:** 212224040195
 
 ## AIM:
