@@ -269,38 +269,38 @@ plt.axis("off")
  
 # Output:
 # Display the image using Matplotlib
-<img width="300" height="505" alt="image" src="https://github.com/user-attachments/assets/7c44a1ef-3db9-420f-a102-d0c1b60fbaab" />
+<img width="400" height="519" alt="image" src="https://github.com/user-attachments/assets/1ce5ba44-0e21-48da-be9f-1e15e1638ece" />
 
   
 # Draw a line from top-left to bottom-right
-<img width="278" height="508" alt="image" src="https://github.com/user-attachments/assets/e7e23368-6719-406c-b169-4ea7595e5e69" />
-<img width="284" height="511" alt="image" src="https://github.com/user-attachments/assets/cb4e6fe9-1899-48b9-b5ba-c8b221731ff7" />
-<img width="284" height="510" alt="image" src="https://github.com/user-attachments/assets/8751577f-c48e-4077-b2c1-9aa5e2102693" />
-<img width="276" height="506" alt="image" src="https://github.com/user-attachments/assets/8c7bf5b2-ccf3-423b-984c-13a11702fb65" />
+<img width="398" height="516" alt="image" src="https://github.com/user-attachments/assets/cd64836f-0fa7-4d78-80a6-be8328517a91" />
+<img width="392" height="528" alt="image" src="https://github.com/user-attachments/assets/829ea9f2-2c14-41aa-bfbe-9912a4647867" />
+<img width="393" height="510" alt="image" src="https://github.com/user-attachments/assets/304725ed-f0de-46cc-a6af-bc7754a271b6" />
+<img width="392" height="511" alt="image" src="https://github.com/user-attachments/assets/460d7ee0-00a1-48ed-a9df-5d703fb88420" />
 
 
 # HSV Image
-<img width="290" height="510" alt="image" src="https://github.com/user-attachments/assets/b3e6dd38-24e3-404e-8d7a-78fa116d2a87" />
-<img width="294" height="506" alt="image" src="https://github.com/user-attachments/assets/ef0e20e5-087f-4ad3-878e-37dc27eaec1b" />
+<img width="375" height="521" alt="image" src="https://github.com/user-attachments/assets/98a0d1bb-c0e3-41b4-8179-7a52c97493c8" />
+<img width="365" height="515" alt="image" src="https://github.com/user-attachments/assets/ca38ec0d-c2f3-4859-bdfa-11374df3f0e7" />
 
 
 # Grayscale Image
-<img width="292" height="505" alt="image" src="https://github.com/user-attachments/assets/4fb300bc-f08a-455c-894b-2342a0dbdeb2" />
+<img width="369" height="512" alt="image" src="https://github.com/user-attachments/assets/18070231-1945-470f-8a63-77cf854ccfd3" />
 
 
 
 # YCrCb Image
-<img width="283" height="500" alt="image" src="https://github.com/user-attachments/assets/fa45bebf-3bc8-455d-85ad-1df924cda297" />
-<img width="278" height="503" alt="image" src="https://github.com/user-attachments/assets/0f405fe6-74bd-429e-beb3-15158e1ed152" />
-<img width="351" height="505" alt="image" src="https://github.com/user-attachments/assets/f765d5fb-8576-4fda-b3e9-2ccb15ac088b" />
-<img width="613" height="509" alt="image" src="https://github.com/user-attachments/assets/8c36a44c-86f6-4b83-91d9-0a7fd2dd4a5c" />
-<img width="491" height="507" alt="image" src="https://github.com/user-attachments/assets/ab7c2cb5-00ad-4248-b87a-d5453917210a" />
+<img width="376" height="513" alt="image" src="https://github.com/user-attachments/assets/57abb916-cfdc-4f2f-8c7c-211a011f8da5" />
+<img width="366" height="515" alt="image" src="https://github.com/user-attachments/assets/490e6c16-d0d4-4498-9d52-719e742362aa" />
+<img width="370" height="508" alt="image" src="https://github.com/user-attachments/assets/be45de02-951f-49b6-9e69-5ae14c3a2366" />
+<img width="616" height="514" alt="image" src="https://github.com/user-attachments/assets/733f52a6-7652-4c99-9c0d-2a8f7272e3e2" />
+
 
 # Horizontal flip
-<img width="287" height="507" alt="image" src="https://github.com/user-attachments/assets/44cac7d5-11ef-4b1e-87ea-cf26ac0d239a" />
+<img width="369" height="514" alt="image" src="https://github.com/user-attachments/assets/aad023cf-80ff-42e8-b625-0a1fcb534aee" />
 
 # Vertical flip
-<img width="290" height="511" alt="image" src="https://github.com/user-attachments/assets/1ee4d111-d027-40b4-8ac0-a2076d003847" />
+<img width="371" height="510" alt="image" src="https://github.com/user-attachments/assets/0c86a26f-61d2-43c2-a4be-65cd68a914b1" />
 
 ## Result:
 Thus, the images were read, displayed, adjustments were made, and bitwise operations were performed successfully using the Python program.
